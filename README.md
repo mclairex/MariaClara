@@ -5,7 +5,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/mclairex" target="_blank">
+  <a href="https://instagram.com/mclairex_" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
