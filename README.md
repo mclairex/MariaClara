@@ -4,17 +4,13 @@
   <a href="https://www.linkedin.com/in/mclaradev/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/seu-id" target="_blank">
-    <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/seu-usuario" target="_blank">
+
+  <a href="https://instagram.com/mclairex" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
 
----
 
----
 
 ### 🛠️ Linguagens e Ferramentas
 
